@@ -1,0 +1,24 @@
+li {
+    color: red;
+    /*background-color: green;*/
+    display:inline;
+    border : 1px solid black;
+    margin : 5px;
+    padding : 10px;
+    background-color: aqua; 
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color : black;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#first {
+    display: none;
+    visibility: hidden;
+}
